@@ -20,4 +20,4 @@
 <h3 align="center">Multiple Sclerosis Detection From Brain MRI</h3>
 
 ## Project Overview
-This Project Detects Multiple Sclerosis from 3D MRI Volumes
+This Project Classify Multiple Sclerosis from 3D MRI Volumes in four category: CIS, PR, RR, SP
