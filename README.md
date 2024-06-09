@@ -20,4 +20,8 @@
 <h3 align="center">Multiple Sclerosis Detection From Brain MRI</h3>
 
 ## Project Overview
-This Project Classify Multiple Sclerosis from 3D MRI Volumes in four category: CIS, PR, RR, SP
+
+Project Classify Multiple Sclerosis from 3D MRI Volumes in four category: CIS, PR, RR, SP
+![C-A (1)](https://github.com/skfaysal/Multiple-Sclerosis-Detection/assets/75178606/0832adc1-389e-4156-b51d-6f59422c3f9b)
+
+![C-A (110)](https://github.com/skfaysal/Multiple-Sclerosis-Detection/assets/75178606/a43bce5e-e8d6-4f6e-814a-6dc4e041b732)
